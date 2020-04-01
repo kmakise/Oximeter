@@ -1,0 +1,16 @@
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+heartbeat\tasks.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
+heartbeat\tasks.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\string.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+heartbeat\tasks.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+heartbeat\tasks.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+heartbeat\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+heartbeat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

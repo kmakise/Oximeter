@@ -1,0 +1,15 @@
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+heartbeat\event_groups.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+heartbeat\event_groups.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+heartbeat\event_groups.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+heartbeat\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+heartbeat\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

@@ -1,0 +1,30 @@
+*** Creating Trace Output File '.\Obj\STM32-FD-FLASHLED.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\lcd_driver.o"'
+### List of Objects: adding '".\obj\delay.o"'
+### List of Objects: adding '".\obj\gui.o"'
+### List of Objects: adding '".\obj\qdtft_demo.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\startup_stm32f10x_hd.o" ".\obj\stm32f10x_it.o" ".\obj\main.o" ".\obj\lcd_driver.o" ".\obj\delay.o" ".\obj\gui.o" ".\obj\qdtft_demo.o" ".\obj\stm32f10x_gpio.o" ".\obj\misc.o" ".\obj\stm32f10x_rcc.o" ".\obj\core_cm3.o" ".\obj\system_stm32f10x.o" --library_type=microlib --strict --scatter ".\Obj\STM32-FD-FLASHLED.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\STM32-FD-FLASHLED.map" -o ".\Obj\STM32-FD-FLASHLED.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\STM32-FD-FLASHLED.axf'
+### ADS-LD Command File: '.\Obj\STM32-FD-FLASHLED.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\STM32-FD-FLASHLED.lnp', Handle=0x00000204
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\STM32-FD-FLASHLED.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

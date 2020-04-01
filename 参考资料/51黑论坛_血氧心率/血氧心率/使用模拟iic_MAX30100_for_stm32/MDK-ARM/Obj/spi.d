@@ -1,0 +1,16 @@
+.\obj\spi.o: ..\USER\SetUp\spi.c
+.\obj\spi.o: ..\Libraries\FWlib\inc\stm32f10x_spi.h
+.\obj\spi.o: ..\Libraries\CMSIS\stm32f10x.h
+.\obj\spi.o: ..\Libraries\CMSIS\core_cm3.h
+.\obj\spi.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\spi.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\obj\spi.o: ..\USER\stm32f10x_conf.h
+.\obj\spi.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+.\obj\spi.o: ..\Libraries\CMSIS\stm32f10x.h
+.\obj\spi.o: ..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\obj\spi.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\obj\spi.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\obj\spi.o: ..\Libraries\FWlib\inc\stm32f10x_spi.h
+.\obj\spi.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\obj\spi.o: ..\Libraries\FWlib\inc\misc.h
+.\obj\spi.o: ..\USER\SetUp\spi.h

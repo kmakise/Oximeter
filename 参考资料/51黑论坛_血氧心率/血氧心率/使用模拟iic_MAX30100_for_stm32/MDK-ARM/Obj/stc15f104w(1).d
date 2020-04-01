@@ -1,0 +1,17 @@
+.\obj\stc15f104w.o: ..\USER\SetUp\STC15F104W.c
+.\obj\stc15f104w.o: ..\USER\SetUp\STC15F104W.h
+.\obj\stc15f104w.o: ..\Libraries\CMSIS\stm32f10x.h
+.\obj\stc15f104w.o: ..\Libraries\CMSIS\core_cm3.h
+.\obj\stc15f104w.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\stc15f104w.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\obj\stc15f104w.o: ..\USER\stm32f10x_conf.h
+.\obj\stc15f104w.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+.\obj\stc15f104w.o: ..\Libraries\CMSIS\stm32f10x.h
+.\obj\stc15f104w.o: ..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\obj\stc15f104w.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\obj\stc15f104w.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\obj\stc15f104w.o: ..\Libraries\FWlib\inc\stm32f10x_spi.h
+.\obj\stc15f104w.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\obj\stc15f104w.o: ..\Libraries\FWlib\inc\misc.h
+.\obj\stc15f104w.o: ..\USER\SetUp\usart.h
+.\obj\stc15f104w.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h

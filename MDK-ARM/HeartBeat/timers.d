@@ -1,0 +1,15 @@
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+heartbeat\timers.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+heartbeat\timers.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+heartbeat\timers.o: D:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+heartbeat\timers.o: ../Core/Inc/FreeRTOSConfig.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+heartbeat\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

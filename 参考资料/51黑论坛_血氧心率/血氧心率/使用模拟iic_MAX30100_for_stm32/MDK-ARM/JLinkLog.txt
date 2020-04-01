@@ -1,0 +1,18 @@
+
+T298C 004:202 SEGGER J-Link V4.35b (beta) Log File (0000ms, 0000ms total)
+T298C 004:202 DLL Compiled: Sep  2 2011 18:34:46 (0000ms, 0000ms total)
+T298C 004:202 Logging started @ 2016-05-30 09:48 (0000ms, 0000ms total)
+T298C 004:202 JLINK_SetWarnOutHandler(...) (0000ms, 0000ms total)
+T298C 004:202 JLINK_OpenEx(...)
+  ***** Error: Can not connect to J-Link via USB.  returns "Can not connect to J-Link via USB." (0001ms, 0000ms total)
+T298C 004:203 JLINK_Close() (0000ms, 0001ms total)
+
+  ***** API Error: API JLINK_GetIdData function called before JLINKARM_Open()
+T298C 004:203 
+  ***** Error: Can not connect to J-Link via USB.
+  ***** API Error: API JLINK_GetIdData function called before JLINKARM_Open()
+T298C 004:203 
+  ***** Error: Can not connect to J-Link via USB.
+  ***** API Error: API JLINK_GetFirmwareString function called before JLINKARM_Open()
+T298C 004:204 
+  ***** Error: Can not connect to J-Link via USB.JLINK_Close() (0000ms, 0001ms total)

@@ -1,0 +1,16 @@
+.\obj\other_io_settings.o: ..\Drivers\Other_IO_Settings\Other_IO_Settings.c
+.\obj\other_io_settings.o: ..\Drivers\Other_IO_Settings\Other_IO_Settings.h
+.\obj\other_io_settings.o: ..\Libraries\CMSIS\stm32f10x.h
+.\obj\other_io_settings.o: ..\Libraries\CMSIS\core_cm3.h
+.\obj\other_io_settings.o: d:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\other_io_settings.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\obj\other_io_settings.o: ..\USER\stm32f10x_conf.h
+.\obj\other_io_settings.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+.\obj\other_io_settings.o: ..\Libraries\CMSIS\stm32f10x.h
+.\obj\other_io_settings.o: ..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\obj\other_io_settings.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\obj\other_io_settings.o: ..\Libraries\FWlib\inc\stm32f10x_i2c.h
+.\obj\other_io_settings.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\obj\other_io_settings.o: ..\Libraries\FWlib\inc\stm32f10x_spi.h
+.\obj\other_io_settings.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\obj\other_io_settings.o: ..\Libraries\FWlib\inc\misc.h
