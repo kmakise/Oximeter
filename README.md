@@ -11,4 +11,5 @@
 基于STM32标准库开发，数据处理使用的是FFT和DCfilter，由于内存问题就没有使用RTOS和显示缓冲区。
 
 ## 图片
-
+![1](https://github.com/kerisu/MAX30100/blob/master/image/1.jpg)
+![2](https://github.com/kerisu/MAX30100/blob/master/image/2.jpg)
