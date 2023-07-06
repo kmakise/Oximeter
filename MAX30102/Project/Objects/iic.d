@@ -2,7 +2,7 @@
 .\objects\iic.o: ..\User\iic.h
 .\objects\iic.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\iic.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\iic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\iic.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\iic.o: ..\User\stm32f10x_conf.h
 .\objects\iic.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,4 +31,4 @@
 .\objects\iic.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\iic.o: ..\User\systick.h
 .\objects\iic.o: ..\User\usart.h
-.\objects\iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\iic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

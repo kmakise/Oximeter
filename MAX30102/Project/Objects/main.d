@@ -1,7 +1,7 @@
 .\objects\main.o: ..\User\main.c
 .\objects\main.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\main.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\main.o: ..\User\stm32f10x_conf.h
 .\objects\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,14 +31,14 @@
 .\objects\main.o: ..\User\exti.h
 .\objects\main.o: ..\User\systick.h
 .\objects\main.o: ..\User\usart.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\main.o: ..\User\iic.h
 .\objects\main.o: ..\User\Font.h
 .\objects\main.o: ..\User\OLED_IIC.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 .\objects\main.o: ..\User\18b20.h
 .\objects\main.o: ..\User\MAX30102.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\main.o: ..\User\algorithm.h
 .\objects\main.o: ..\User\blood.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

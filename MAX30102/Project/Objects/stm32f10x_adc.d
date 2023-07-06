@@ -2,7 +2,7 @@
 .\objects\stm32f10x_adc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 .\objects\stm32f10x_adc.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\stm32f10x_adc.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\stm32f10x_adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_adc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\stm32f10x_adc.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\stm32f10x_adc.o: ..\User\stm32f10x_conf.h
 .\objects\stm32f10x_adc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

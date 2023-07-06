@@ -2,7 +2,7 @@
 .\objects\oled_iic.o: ..\User\OLED_IIC.h
 .\objects\oled_iic.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\oled_iic.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\oled_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled_iic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\oled_iic.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\oled_iic.o: ..\User\stm32f10x_conf.h
 .\objects\oled_iic.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -32,5 +32,5 @@
 .\objects\oled_iic.o: ..\User\iic.h
 .\objects\oled_iic.o: ..\User\systick.h
 .\objects\oled_iic.o: ..\User\Font.h
-.\objects\oled_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-.\objects\oled_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\oled_iic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\oled_iic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

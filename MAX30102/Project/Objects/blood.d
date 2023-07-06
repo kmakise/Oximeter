@@ -2,7 +2,7 @@
 .\objects\blood.o: ..\User\blood.h
 .\objects\blood.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\blood.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\blood.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\blood.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\blood.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\blood.o: ..\User\stm32f10x_conf.h
 .\objects\blood.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -32,11 +32,11 @@
 .\objects\blood.o: ..\User\MAX30102.h
 .\objects\blood.o: ..\User\iic.h
 .\objects\blood.o: ..\User\systick.h
-.\objects\blood.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\blood.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\blood.o: ..\User\algorithm.h
-.\objects\blood.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\blood.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 .\objects\blood.o: ..\User\OLED_IIC.h
 .\objects\blood.o: ..\User\Font.h
-.\objects\blood.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-.\objects\blood.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\blood.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\blood.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\blood.o: ..\User\usart.h

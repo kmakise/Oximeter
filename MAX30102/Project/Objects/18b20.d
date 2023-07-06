@@ -2,7 +2,7 @@
 .\objects\18b20.o: ..\User\18b20.h
 .\objects\18b20.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\18b20.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\18b20.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\18b20.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\18b20.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\18b20.o: ..\User\stm32f10x_conf.h
 .\objects\18b20.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,8 +31,8 @@
 .\objects\18b20.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\18b20.o: ..\User\systick.h
 .\objects\18b20.o: ..\User\usart.h
-.\objects\18b20.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\18b20.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\18b20.o: ..\User\OLED_IIC.h
 .\objects\18b20.o: ..\User\iic.h
 .\objects\18b20.o: ..\User\Font.h
-.\objects\18b20.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\18b20.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

@@ -2,7 +2,7 @@
 .\objects\max30102.o: ..\User\MAX30102.h
 .\objects\max30102.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\max30102.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\max30102.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\max30102.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\max30102.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\max30102.o: ..\User\stm32f10x_conf.h
 .\objects\max30102.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,4 +31,4 @@
 .\objects\max30102.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\max30102.o: ..\User\iic.h
 .\objects\max30102.o: ..\User\systick.h
-.\objects\max30102.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\max30102.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
